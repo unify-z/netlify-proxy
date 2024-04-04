@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "http://unifyzz.great-site.net/:splat"
+  to = "http://[2a04:bdc7:100:3ce2::a2c0:a770]:8008/:splat"
   status = 200
